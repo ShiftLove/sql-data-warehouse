@@ -32,7 +32,7 @@ GO
 USE DataWarehouse;
 GO
 
---Create Schemas
+--Create Schema
 
 CREATE SCHEMA bronze;
 GO
